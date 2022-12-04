@@ -1,0 +1,734 @@
+[
+  {
+    "properties": {
+      "NAME": "St Peters Court Flat Complex",
+      "ADDRESS": "St Peters Street"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Midland Railway Station",
+      "ADDRESS": "Off Queens Street, City Centre"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Meadows Primary School",
+      "ADDRESS": "Kirkby Gardens, Meadows"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Tesco Car Park Top Valley",
+      "ADDRESS": "Top Valley Way, Top Valley"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Bosworth Primary School",
+      "ADDRESS": "Ainsworth Drive, Meadows"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Roundabout Centre",
+      "ADDRESS": "Southchurch Drive, Wilford"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Iona School",
+      "ADDRESS": "Sneinton Dale, Sneinton"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Co-Op Beckhampton Road",
+      "ADDRESS": "Beckhampton Road, Bestwood Park"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Highwood Player Junior School",
+      "ADDRESS": "Highwood Avenue, Bilborough"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Woodlands Estate",
+      "ADDRESS": "Off Norton Street, Radford"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Portland Leisure Centre",
+      "ADDRESS": "Arkwright Walk, Meadows"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Colston Flats",
+      "ADDRESS": "Colston Road, Ng6 9jn"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Robin Hood Chase Car Park",
+      "ADDRESS": "Robin Hood Chase, St Anns"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Trent Bridge Primary",
+      "ADDRESS": "Green Street, Meadows"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Radford Primary School",
+      "ADDRESS": "Denman St West, Radford"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Heathfields Primary School",
+      "ADDRESS": "Scotland Road, Basford"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Mapperley Hospital Car Park",
+      "ADDRESS": "Porchester Road, Mapperley"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Middleton Primary School",
+      "ADDRESS": "Harrow Road, Wollaton"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Robert Shaw Primary School",
+      "ADDRESS": "Southfield Road, Radford"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Oakleigh Lodge Social Club",
+      "ADDRESS": "Highbury Road, Bulwell"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Brooksby Primary School",
+      "ADDRESS": "Greencroft, Clifton"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Queens Medical Centre",
+      "ADDRESS": "Derby Road, Lenton"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Trinity School",
+      "ADDRESS": "Beechdale Road, Aspley"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Brocklewood Junior School (Independent)",
+      "ADDRESS": "Fircroft Avenue, Bilborough"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Portland Primary School",
+      "ADDRESS": "Westwick Road, Bilborough"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Haywood Comprehensive School",
+      "ADDRESS": "Edwards Lane, Sherwood"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Manning Comprehensive School",
+      "ADDRESS": "Robins Wood Road, Aspley"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Glaisdale Comprehensive School",
+      "ADDRESS": "Glenbrook Crescent, Bilborough"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Mansfield Road",
+      "ADDRESS": "Opp Tavistock Drive, Mansfield Road, Sherwood"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Marcus Garvey Centre",
+      "ADDRESS": "Lenton Boulevard, Lenton"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Oap Home Squires Avenue",
+      "ADDRESS": "Squires Avenue, Bulwell East"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Hall Street Car Park",
+      "ADDRESS": "Hall Street, Sherwood"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "At End Of The Street",
+      "ADDRESS": "Tennyson Street"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Welbeck Primary School",
+      "ADDRESS": "Kinglake Place, Meadows"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "St. Augustines R.c. Primary School",
+      "ADDRESS": "Park Avenue, Mapperley Road, Mapperley"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Tennis Centre",
+      "ADDRESS": "University Boulevard, Dunkirk"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Savoy Cinema",
+      "ADDRESS": "Derby Road"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Westbury Special School",
+      "ADDRESS": "Lortas Road, Forest Fields"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Dunkirk Sports Ground/football Club",
+      "ADDRESS": "Lenton Lane, Dunkirk"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Elliot Durham Comprehensive School",
+      "ADDRESS": "Ransom Drive, Mapperley"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Henry Mellish Comprehensive School",
+      "ADDRESS": "Highbury Road, Bulwell"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Top Valley Comprehensive School",
+      "ADDRESS": "Top Valley Drive, Off Hucknall Road, Top Valley"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Winchester/woodthorpe Court",
+      "ADDRESS": "Off Winchester Street, Sherwood"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Bulwell Railway Station",
+      "ADDRESS": "Main Street, Bulwell"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Beechdale Baths",
+      "ADDRESS": "Beechdale Road, Beechdale"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Bells Lane Community Centre",
+      "ADDRESS": "Amesbury Circus, Aspley"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Brook Street Car Park",
+      "ADDRESS": "Brook Street, City Centre"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Eastcroft Depot",
+      "ADDRESS": "London Road, City Centre"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Milford Primary School",
+      "ADDRESS": "Dungannon Road, Clifton"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Dunkirk And Old Lenton Community Centre",
+      "ADDRESS": "Montpelier Road, Dunkirk"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Woodlands Special School",
+      "ADDRESS": "Beechdale Road, Aspley"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "The Bluecoat School",
+      "ADDRESS": "Aspley Lane, Aspley"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Stockhill Lane Fire Station",
+      "ADDRESS": "Stockhill Lane, Bulwell"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Forest Fields Community Centre",
+      "ADDRESS": "Sturton Street, Forest Fields"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Bracebridge Drive Shops",
+      "ADDRESS": "Bracebridge Drive, Bilborough"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Metropolitan Estate - Lower Car Park",
+      "ADDRESS": "Brewsters Road, St Anns"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Church Square Shops",
+      "ADDRESS": "Willoughby Street, Lenton"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Glade Hill Primary School",
+      "ADDRESS": "Chippenham Road, Bestwood Park"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Co-Op Wilford Lane",
+      "ADDRESS": "Wilford Lane, Wilford"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Silverdale Community Centre",
+      "ADDRESS": "The Downs, Wilford"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Sainsbury\u0027s Supermarket",
+      "ADDRESS": "Castle Bridge Road, Castle Marina"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "New College Nottingham",
+      "ADDRESS": "Pelham Avenue, Nottingham, Ng5 1al"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Woodthorpe Grange",
+      "ADDRESS": "Woodthorpe Drive, Woodthorpe"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Seagrave Primary School",
+      "ADDRESS": "Helston Drive, Strelley"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Stanstead Primary School",
+      "ADDRESS": "Stanstead Avenue, Top Valley"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Sneinton C.e. Primary School",
+      "ADDRESS": "Windmill Lane, Sneinton"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Clifton Leisure Centre",
+      "ADDRESS": "Southchurch Drive, Clifton"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Gladston Liberal Club",
+      "ADDRESS": "Manning Street"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Glapton Primary School",
+      "ADDRESS": "Glapton Lane, Clifton"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Nightingale Hall University Of Nottingham",
+      "ADDRESS": "Beeston Lane, Dunkirk"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "City Hospital (Yellow Car Park)",
+      "ADDRESS": "Edwards Lane, Basford"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Greenwood Dale Comprehensive School",
+      "ADDRESS": "Sneinton Boulevard, Sneinton"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Jesse Boot School",
+      "ADDRESS": "Hereford Road, Bakersfield"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Robin Hood Junior School",
+      "ADDRESS": "Beckhampton Road, Bestwood Park"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Maypole Pub Car Park",
+      "ADDRESS": "Wilford Lane, Wilford"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Junction Huntington Street/glasshouse Steet",
+      "ADDRESS": "Glasshouse Street"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Lindon Lodge City Hospital",
+      "ADDRESS": "Edwards Lane, Basford"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Brinkhill Primary School",
+      "ADDRESS": "Greencroft, Clifton"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Gilead Street Car Park",
+      "ADDRESS": "Gilead Street, Bulwell West"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Castle Retail Park",
+      "ADDRESS": "Radford Boulevard, Radford"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Blessed Robert Winderpool R.c School",
+      "ADDRESS": "Listowel Cresent, Clifton"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Shepherd Special School",
+      "ADDRESS": "Harvey Road, Bilborough"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Kwiksave (Sneinton)",
+      "ADDRESS": "Meadow Lane, Sneinton"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Elms Primary School",
+      "ADDRESS": "Cranmer Street, St Anns"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Pleasant Row",
+      "ADDRESS": "Radford Road, Radford"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Whitemoor Primary School",
+      "ADDRESS": "Bracknell Crescent, Basford"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Rosslyn Junior School",
+      "ADDRESS": "Minver Crescent, Aspley"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Car Park Behind Flats",
+      "ADDRESS": "Penn Avenue"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Morrisons Car Park",
+      "ADDRESS": "Hucknall Lane, Bulwell East"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Aspley Wood School",
+      "ADDRESS": "Robinswood Road, Aspley"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Co-Op Trowell Road (Superstore)",
+      "ADDRESS": "Trowell Road, Wollaton"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Basford Hall Fe College",
+      "ADDRESS": "Stockhill Lane, Basford"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Claremont Primary School",
+      "ADDRESS": "Claremont Road, Sherwood"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "St. Teresa\u0027s R.c. Primary School",
+      "ADDRESS": "Kingsbury Drive, Aspley"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Derby Hall",
+      "ADDRESS": "University Of Nottingham, Beeston Lane, Dunkirk"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Whitegate Primary School",
+      "ADDRESS": "Middlefell Way, Clifton"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Sandfield Teachers Centre",
+      "ADDRESS": "Sandfield Road, Lenton"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Gala Way Bingo Club",
+      "ADDRESS": "Gala Way, Top Valley"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Pearmain Drive/woodlane Crescent",
+      "ADDRESS": "Pearmain Drive"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Sherwood Community Centre",
+      "ADDRESS": "Mansfield Road, Sherwood"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Greencroft Primary School",
+      "ADDRESS": "Greencroft, Clifton"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Fernwood Comprehensive School",
+      "ADDRESS": "Goodwood Road, Wollaton"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Huntingdon Primary School",
+      "ADDRESS": "Alfred St Central, Woodborough Rd, St Anns"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Sherwood Hall",
+      "ADDRESS": "Nottingham University, Beeston Lane, Dunkirk"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "City Hospital (Purple Car Park)",
+      "ADDRESS": "Edwards Lane, Basford"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Sneinton Market",
+      "ADDRESS": "Bath Street, Sneinton"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Carrington Primary School",
+      "ADDRESS": "Jenner Street, Carrington"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Kwik Save Supermarket",
+      "ADDRESS": "Spring Road"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "The Kings School",
+      "ADDRESS": "Ford Cres West/collygate Rd, Meadows"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Household Waste And Recycling Centre",
+      "ADDRESS": "Redfield Road, Lenton"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Croft Nursery School",
+      "ADDRESS": "Leen Place, St Peters Street, Radford"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Morely Junior School",
+      "ADDRESS": "The Wells Road, St Anns"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Windmill Car Park",
+      "ADDRESS": "Windmill Lane, Sneinton"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "St Judes Church",
+      "ADDRESS": "Woodborough Road"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Ken Martin\u0027s Baths",
+      "ADDRESS": "Sandhurst Road, Bulwell East"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "St Edwards Rc Primary School",
+      "ADDRESS": "Gordon Road, St Anns"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Bridgway Centre (Shopping)",
+      "ADDRESS": "Sherriffs Way, Meadows"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Headstocks Public House",
+      "ADDRESS": "Cinderhill Road, Ng6 8se"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Arkwright Primary School",
+      "ADDRESS": "Orange Gardens, Wilford Grove, Meadows"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Asda Car Park",
+      "ADDRESS": "Radford Road, Radford"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Queens Drive Park And Ride",
+      "ADDRESS": "Queens Drive, Queens Drive"
+    }
+  },
+  {
+    "properties": {
+      "NAME": "Haydn Primary School",
+      "ADDRESS": "Haydn Road, Sherwood"
+    }
+  }
+]
